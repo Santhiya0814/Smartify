@@ -1,0 +1,4 @@
+[build]
+  base = "ecommerce-app"
+  command = "npm run build"
+  publish = "ecommerce-app/build"
